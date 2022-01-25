@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="Models\**" />
+		<Compile Remove="NewFolder\**" />
+		<Content Remove="Models\**" />
+		<Content Remove="NewFolder\**" />
+		<EmbeddedResource Remove="Models\**" />
+		<EmbeddedResource Remove="NewFolder\**" />
+		<None Remove="Models\**" />
+		<None Remove="NewFolder\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Include="Models\Pracownik.cs" />
+		<Compile Include="Models\Pizza.cs" />
+		<Compile Include="Models\Pizzeria.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+	</ItemGroup>
+
+		
+</Project>

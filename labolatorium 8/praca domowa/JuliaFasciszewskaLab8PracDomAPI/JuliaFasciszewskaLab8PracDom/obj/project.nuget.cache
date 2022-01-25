@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SvNoc/9bEB/KMLpjdxjAkmD97jCrQyNxQ0u2a+XIpSr+qT5jt/UJdK766AZ2mjWGc7vIQ8aD6yJVocIpy4Iobw==",
+  "success": true,
+  "projectFilePath": "D:\\KredekMateriały\\materiały\\PatrykGanczarekLab6\\PatrykGanczarekLab6\\PatrykGanczarekLab6\\JuliaFasciszewskaLab8PracDom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Veena\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Veena\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Veena\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Veena\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Veena\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Veena\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
